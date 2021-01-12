@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">The Hobby Center</string>
+    <string name="send_key">About</string>
+    <string name="delete_key">Contact Us</string>
+    <string name="receive_key">Details</string>
+    <string name="button1">Dance</string>
+    <string name="button2">Music</string>
+    <string name="button3">Art and Craft</string>
+    <string name="the_hobby_center">    The Hobby Center</string>
+    <string name="button4">Reading</string>
+    <string name="button5">Horse Riding</string>
+    <string name="todo">TODO</string>
+</resources>
